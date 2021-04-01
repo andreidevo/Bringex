@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Flutter Developer (1+ year) and UI Designer (1-2 years), 
-kotlin/java in past (2+ years of exp)
+kotlin/java Dev in the past (2+ years of exp)
 
 My plans:
 
