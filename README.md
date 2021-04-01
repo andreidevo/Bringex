@@ -1,16 +1,13 @@
 ### Hi there 👋
 
+Flutter Developer, 
+kotlin/java in past (1-2 years of exp)
 
-Bringex/Bringex is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+My plans:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 
-- 💬 
-- 📫 
-- 😄 
-- ⚡️ 
+- 🔭 Finish my portfolio proj with opensource code for show
+- 🌱 Develop app with 50.000 downloads (18.000 already exist)
+- 👯 Have independent income
+- 🤔 oddly enough I want to know better English
+- ⚡️ And I want to travel around the world!
 
