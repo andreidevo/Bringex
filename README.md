@@ -7,7 +7,7 @@ My plans:
 
 - 🔭 Finish my portfolio proj with opensource code for show
 - 🌱 Develop app with 50.000 downloads (19.000 already exist)
-- ⚡️ Working in Yangex or FAANG
+- ⚡️ Working in Yandex or FAANG
 - 🤔 Oddly enough I want to know better English and Spanish
 - 👯 Have independent income and travel around the world!
 
