@@ -6,7 +6,7 @@ kotlin/java Dev in the past (2+ years of exp)
 My plans:
 
 - 🔭 Finish my portfolio proj with opensource code for show
-- 🌱 Develop app with 50.000 downloads (19.000 already exist)
+- 🌱 Develop app with 50.000 downloads (20.000 already exist)
 - ⚡️ Working in Yandex or FAANG
 - 🤔 Oddly enough I want to know better English and Spanish
 - 👯 Have independent income and travel around the world!
